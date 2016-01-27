@@ -4,3 +4,6 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/duqrepo/DuqNukeSite.git
 git push -u origin master
+TEST 1
+
+TEST 3
