@@ -11,11 +11,7 @@ Maya civilization
     Writing
     Religion
     Mythology
-<<<<<<< HEAD
-    ABC
-=======
-    Sacrifice 123
->>>>>>> a5bfe5312e0be3f47194460da2807f298cbd7350
+    Sacrifice1
     Cities
     Architecture
     Calendar
