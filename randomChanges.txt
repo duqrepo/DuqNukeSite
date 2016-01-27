@@ -1,3 +1,7 @@
 Nothing importants
+<<<<<<< HEAD
 fo realzy
 full reality lol sike naw G.
+=======
+fo realzy doe
+>>>>>>> 15e1d4830c8f3ddc744ccf74565ac4a01c10d628
