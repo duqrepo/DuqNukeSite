@@ -8,7 +8,7 @@ Art by Alex Ross
 Publication information
 Publisher 	Marvel Comics
 First appearance 	The X-Men #1 (September 10, 1963)
-Created by  K.Smitty
+Created by  K.Smitty & Doughla$
 
     Stan Lol
     Kirby Puckett
@@ -23,14 +23,15 @@ Base(s)
 
 Member(s) 	
 
-    Archangel
-    Colossus
-    Forge
+    Archangel-o
+    Colossus-sal
+    Forge-ry
     Jean Grey (past)
-    Iceman
-    M
-    Magik
-    Magneto
+    Iceman-sicle
+    M-om
+    Magik-al
+    Magneto-mergerd
+
     Nightcrawler
     Old Man Logan
     Psylocke
